@@ -14,6 +14,6 @@ Possibilitar que o conteúdo seja consumido por todas as pessoas é uma questão
 * SEMPRE relacionar um label ao seu input;
 * Declarar a linguagem principal do documento e em mudanças de idiomas;
 * TODA imagem precisa ter um atributo alt declarado;
-* Fazer a divisão adequada dos textos com título; 
+* Fazer a divisão adequada dos textos com título.
 
 Todas essas questões (e muitas outras) foram atendidas pelo site da Apeperia, um exercício de como melhorar a experiência do usuário não somente para pessoas com deficiência mas sim para todo o público-alvo. 
