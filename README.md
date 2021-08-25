@@ -1,6 +1,8 @@
 # Acessibilidade Web: sites feitos para todos
 Esse projeto implementou a página online acessível da Apeperia. Tornando seu acesso mais adequado para pessoas compreendidas no espectro autista, surdos, disléxicos, deficientes físicos, pessoas com baixa visão e cegos.
 
+![Captura de ecrã de 2021-08-25 20-03-37](https://user-images.githubusercontent.com/78432629/130875584-9db41c13-79c4-4a05-8555-9e0da0526dea.png)
+
 ## Por que pensar em acessibilidade?
 Possibilitar que o conteúdo seja consumido por todas as pessoas é uma questão de inclusão social. É importante considerar que 25% da população brasileira apresenta algum tipo de necessidade especial. É demonstrar respeito e empatia pelas condições pessoais de cada um.  
 
